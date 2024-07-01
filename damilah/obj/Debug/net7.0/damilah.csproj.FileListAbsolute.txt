@@ -1,0 +1,15 @@
+C:\Users\Davor\Desktop\damilah\damilah\bin\Debug\net7.0\damilah.exe
+C:\Users\Davor\Desktop\damilah\damilah\bin\Debug\net7.0\damilah.deps.json
+C:\Users\Davor\Desktop\damilah\damilah\bin\Debug\net7.0\damilah.runtimeconfig.json
+C:\Users\Davor\Desktop\damilah\damilah\bin\Debug\net7.0\damilah.dll
+C:\Users\Davor\Desktop\damilah\damilah\bin\Debug\net7.0\damilah.pdb
+C:\Users\Davor\Desktop\damilah\damilah\obj\Debug\net7.0\damilah.csproj.AssemblyReference.cache
+C:\Users\Davor\Desktop\damilah\damilah\obj\Debug\net7.0\damilah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davor\Desktop\damilah\damilah\obj\Debug\net7.0\damilah.AssemblyInfoInputs.cache
+C:\Users\Davor\Desktop\damilah\damilah\obj\Debug\net7.0\damilah.AssemblyInfo.cs
+C:\Users\Davor\Desktop\damilah\damilah\obj\Debug\net7.0\damilah.csproj.CoreCompileInputs.cache
+C:\Users\Davor\Desktop\damilah\damilah\obj\Debug\net7.0\damilah.dll
+C:\Users\Davor\Desktop\damilah\damilah\obj\Debug\net7.0\refint\damilah.dll
+C:\Users\Davor\Desktop\damilah\damilah\obj\Debug\net7.0\damilah.pdb
+C:\Users\Davor\Desktop\damilah\damilah\obj\Debug\net7.0\damilah.genruntimeconfig.cache
+C:\Users\Davor\Desktop\damilah\damilah\obj\Debug\net7.0\ref\damilah.dll
